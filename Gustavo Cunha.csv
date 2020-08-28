@@ -1,0 +1,301 @@
+videoid;titulo;data;dia_semana;intervalo;duracao;views;curtidas;nao_curtidas;comentarios;conteudo;foco;tipo;grupo
+1;STAR WARS TIE FIGHTER - Jujuba ATÔMICA;04/01/2016;Segunda-Feira;0;06:09;15918;2166;11;139;Resenha;Tie  Fighter;Animação;Star Wars
+2;RESENHA As Cavernas de Aço (Isaac Asimov) - Jujuba ATÔMICA;29/01/2016;Sexta-Feira;25;06:13;22594;3245;4;74;Resenha;Robôs;Livros;Isaac Asimov
+3;10 CURIOSIDADES sobre O DESPERTAR DA FORÇA;29/01/2016;Sexta-Feira;0;09:27;19749;2416;5;52;Lista;Despertar da Força;Filmes;Star Wars
+4;Tudo Sobre DEADPOOL;08/02/2016;Segunda-Feira;10;08:33;84428;7279;27;125;Origem;Deadpool;Personagem;Marvel
+5;O Perigo da INTELIGÊNCIA ARTIFICIAL;29/02/2016;Segunda-Feira;21;07:52;84479;10970;67;486;Noticia;Inteligência Artificial;Matéria;Tecnologia
+6;Harry Potter / Nasa / Time Trap - Jujuba NEWS;10/03/2016;Quinta-Feira;10;04:50;1610;256;2;8;Noticia;Vários;Matéria;Outros
+7;RESENHA Ruas Estranhas (George R. R. Martin) - Jujuba ATÔMICA;21/03/2016;Segunda-Feira;11;11:03;27796;3401;12;91;Resenha;Ruas Estranhas;Livros;George R. R. Martin
+8;Tudo Sobre Rogue One: Uma História Star Wars | Jujuba ATÔMICA;25/03/2016;Sexta-Feira;4;09:02;7479;791;2;22;Preview;Rogue One;Filmes;Star Wars
+9;Batman v Superman REVIEW (SEM SPOILERS);01/04/2016;Sexta-Feira;7;07:59;26230;3030;24;207;Review;Batman x Superman;Filmes;DC Comics
+10;Teaser Rogue One: Uma História Star Wars (COMENTADO) | Jujuba ATÔMICA;08/04/2016;Sexta-Feira;7;11:35;3716;371;0;16;Preview;Rogue One;Filmes;Star Wars
+11;Trailer Esquadrão Suicida (COMENTADO) | Jujuba ATÔMICA;15/04/2016;Sexta-Feira;7;11:30;45315;5228;73;395;Preview;Esquadrão Suicida;Filmes;DC Comics
+12;10 Curiosidades Sobre STAR TREK;21/04/2016;Quinta-Feira;6;12:43;82972;9092;81;395;Lista;Star Trek;Séries;Star Trek
+13;Capitão América: Guerra Civil (REVIEW SEM SPOILERS);29/04/2016;Sexta-Feira;8;09:59;33255;3439;48;263;Review;Guerra Civil;Filmes;Marvel
+14;Teorias de Game of Thrones;06/05/2016;Sexta-Feira;7;14:35;25806;2562;8;213;Teoria;Game Of Thrones;Séries;George R. R. Martin
+15;Cena do FLASH (EXPLICADA);14/05/2016;Sábado;8;11:06;445738;35536;349;1697;Explicação;Batman x Superman;Filmes;DC Comics
+16;Game of Thrones - quinto episódio - sexta temporada (COMENTÁRIOS) | Jujuba ATÔMICA;23/05/2016;Segunda-Feira;9;06:33;5405;450;2;103;Review;Game Of Thrones;Séries;George R. R. Martin
+17;A GUERRA DOS MUNDOS de ORSON WELLES;27/05/2016;Sexta-Feira;4;09:27;63855;8101;28;303;Resenha;Ficção Científica;Rádio;Orson Welles
+18;Game of Thrones - sexto episódio - sexta temporada (COMENTÁRIOS) | Jujuba ATÔMICA;30/05/2016;Segunda-Feira;3;08:52;4022;415;2;64;Review;Game Of Thrones;Séries;George R. R. Martin
+19;Cena do CYBORG (EXPLICADA);04/06/2016;Sábado;5;07:36;215793;18534;106;524;Explicação;Batman x Superman;Filmes;DC Comics
+20;Game of Thrones - sétimo episódio - sexta temporada (COMENTÁRIOS) | Jujuba ATÔMICA;06/06/2016;Segunda-Feira;2;07:59;4922;485;1;74;Review;Game Of Thrones;Séries;George R. R. Martin
+21;Game of Thrones - oitavo episódio - sexta temporada (COMENTÁRIOS) | Jujuba ATÔMICA;13/06/2016;Segunda-Feira;7;13:12;4744;544;2;92;Review;Game Of Thrones;Séries;George R. R. Martin
+22;Como STEVEN SPIELBERG inventou o BLOCKBUSTER;17/06/2016;Sexta-Feira;4;11:58;38092;5578;23;169;Resenha;Steven Spielberg;Filmes;Steven Spielberg
+23;Game of Thrones - episódio 9 - sexta temporada (COMENTÁRIOS) | Jujuba ATÔMICA;20/06/2016;Segunda-Feira;3;14:55;12422;877;6;117;Review;Game Of Thrones;Séries;George R. R. Martin
+24;Independence Day Resurgence REVIEW (SEM SPOILERS) | Jujuba ATÔMICA;24/06/2016;Sexta-Feira;4;11:36;18616;2477;5;186;Review;Independence Day;Filmes;Fox
+25;Game of Thrones temporada 6 - episódio 10 (REVIEW) | Jujuba ATÔMICA;27/06/2016;Segunda-Feira;3;18:50;14966;1129;13;168;Review;Game Of Thrones;Séries;George R. R. Martin
+26;DOUTOR ESTRANHO | Origem;03/07/2016;Domingo;6;17:51;184950;16610;116;473;Origem;Dr. Estranho;Personagem;Marvel
+27;AS JOIAS DO INFINITO;08/07/2016;Sexta-Feira;5;14:49;401624;41250;208;1267;Origem;Joias do Infinito;Personagem;Marvel
+28;Onde Está o Gendry? | GAME OF THRONES;14/07/2016;Quinta-Feira;6;11:15;14933;1134;28;167;Teoria;Game Of Thrones;Séries;George R. R. Martin
+29;Tudo Sobre o ESQUADRÃO SUICIDA;23/07/2016;Sábado;9;15:07;54570;5332;32;177;Origem;Esquadrão Suicida;Filmes;DC Comics
+30;LIGA DA JUSTIÇA | Trailer Comentado;29/07/2016;Sexta-Feira;6;14:06;148299;11506;62;550;Preview;Liga da Justiça;Filmes;DC Comics
+31;Trailer MULHER MARAVILHA 1 (Comentado);02/08/2016;Terça-Feira;4;11:40;21451;2742;5;169;Preview;Mulher Maravilha;Filmes;DC Comics
+32;ESQUADRÃO SUICIDA (Análise SEM SPOILERS);06/08/2016;Sábado;4;12:28;32009;3871;56;612;Review;Esquadrão Suicida;Filmes;DC Comics
+33;ROGUE ONE Trailer 1 (COMENTADO);13/08/2016;Sábado;7;11:01;6071;1054;2;139;Preview;Rogue One;Filmes;Star Wars
+34;DAENERYS TARGARYEN | GAME OF THRONES;16/08/2016;Terça-Feira;3;11:46;9261;1167;2;99;Origem;Daenerys Targaryen;Séries;George R. R. Martin
+35;NIKOLA TESLA;21/08/2016;Domingo;5;12:10;153665;24901;61;1539;Origem;Nikola Tesla;Personalidade;Nikola Tesla
+36;THOR RAGNAROK - Fotos do Set e Teorias;26/08/2016;Sexta-Feira;5;09:15;105832;9138;47;433;Teoria;Thor;Filmes;Marvel
+37;Cena do EXTERMINADOR (DEATHSTROKE);30/08/2016;Terça-Feira;4;04:52;66561;6819;18;468;Explicação;Deathstroke;Filmes;DC Comics
+38;Star Trek Sem Fronteiras | REVIEW (SEM SPOILERS);02/09/2016;Sexta-Feira;3;09:37;15960;2297;6;158;Review;Star Trek;Filmes;Star Trek
+39;Tudo sobre o EXTERMINADOR (DEATHSTROKE);06/09/2016;Terça-Feira;4;08:07;284956;30867;170;823;Origem;Deathstroke;Personagem;DC Comics
+40;STRANGER THINGS Segunda Temporada (Notícias e Teorias);10/09/2016;Sábado;4;12:46;73746;6514;46;457;Teoria;Stranger Thinghs;Séries;Netflix
+41;Todas as Tropas de LANTERNAS da DC;16/09/2016;Sexta-Feira;6;14:31;705216;69296;499;1750;Origem;Tropas dos Lanternas;Personagem;DC Comics
+42;TYRION LANNISTER | GAME OF THRONES;25/09/2016;Domingo;9;11:24;13508;1735;8;153;Origem;Tyrion Lanister;Séries;George R. R. Martin
+43;LUKE CAGE | ORIGEM;30/09/2016;Sexta-Feira;5;08:39;90511;9071;48;265;Origem;Luke Cage;Personagem;Marvel
+44;PIRATAS DO CARIBE: A Vingança de Salazar TEASER TRAILER (REVIEW);04/10/2016;Terça-Feira;4;07:04;77884;5710;55;377;Preview;Piratas do Caribe;Filmes;Disney
+45;LIGA DA JUSTIÇA Cenas do SET liberadas por ZACK SNYDER (ANÁLISE);08/10/2016;Sábado;4;08:01;157299;12428;141;653;Preview;Liga da Justiça;Filmes;DC Comics
+46;POWER RANGERS 2017 Teaser | COMENTADO;11/10/2016;Terça-Feira;3;07:23;73875;6807;38;402;Preview;Power Rangers;Filmes;Power Rangers
+47;PUNHO DE FERRO (Origem) | Estreia da NETFLIX;14/10/2016;Sexta-Feira;3;08:38;140089;13347;76;456;Origem;Punho de Ferro;Personagem;Marvel
+48;ROGUE ONE Trailer 2 | REVIEW;16/10/2016;Domingo;2;09:21;7049;1220;4;199;Preview;Rogue One;Filmes;Star Wars
+49;GUARDIÕES DA GALÁXIA 2 Teaser | ANÁLISE;20/10/2016;Quinta-Feira;4;08:16;19740;2667;6;264;Preview;Guardiões da Galáxia;Filmes;Marvel
+50;Trailer LOGAN | ANÁLISE;26/10/2016;Quarta-Feira;6;11:17;80651;7746;18;366;Preview;Wolverine;Filmes;Marvel
+51;O Homem Que Caiu na Terra | RESENHA;28/10/2016;Sexta-Feira;2;07:45;35407;4736;10;182;Resenha;Ficção Científica;Livros;Walter Tevis
+52;DARKSEID | Origem;02/11/2016;Quarta-Feira;5;09:32;419627;37523;249;1235;Origem;Darkseid;Personagem;DC Comics
+53;DOUTOR ESTRANHO Crítica;04/11/2016;Sexta-Feira;2;08:22;48303;4920;32;242;Review;Dr. Estranho;Filmes;Marvel
+54;MULHER MARAVILHA Trailer 2 | ANÁLISE;06/11/2016;Domingo;2;07:02;26663;2952;6;178;Preview;Mulher Maravilha;Filmes;DC Comics
+55;DOUTOR ESTRANHO e a linha do tempo da MARVEL;11/11/2016;Sexta-Feira;5;07:47;82898;9723;40;363;Explicação;Dr. Estranho;Filmes;Marvel
+56;ERRRROOOOUUUU...;13/11/2016;Domingo;2;03:16;26701;3680;8;204;Explicação;Dr. Estranho;Filmes;Marvel
+57;GAME OF THRONES | Novidades da Sétima Temporada;15/11/2016;Terça-Feira;2;06:34;20490;2434;16;83;Noticia;Game Of Thrones;Séries;George R. R. Martin
+58;Animais Fantásticos e Onde Habitam | CRÍTICA SEM SPOILERS;18/11/2016;Sexta-Feira;3;07:56;17811;2493;10;89;Review;Animais Fantásticos;Filmes;J. K. Rowling
+59;A Chegada (Arrival) | CRÍTICA sem spoilers;25/11/2016;Sexta-Feira;7;08:11;16291;2388;5;179;Review;Ficção Científica;Filmes;Sony
+60;THE FLASH | Quem é SAVITAR?;01/12/2016;Quinta-Feira;6;05:53;478447;28156;506;1233;Origem;Flash;Séries;DC Comics
+61;GUARDIÕES DA GALÁXIA 2 TRAILER 2 | Análise;06/12/2016;Terça-Feira;5;08:27;68536;6197;26;220;Preview;Guardiões da Galáxia;Filmes;Marvel
+62;Sobre os Trailers de Transformers e Homem Aranha;07/12/2016;Quarta-Feira;1;01:05;14777;1163;9;87;Aviso;Transformers/Homem Aranha;Filmes;Outros
+63;TRANSFORMERS 5 - O Último Cavaleiro TRAILER | ANÁLISE;08/12/2016;Quinta-Feira;1;10:18;258133;16797;142;1448;Preview;Transformers;Filmes;Transformers
+64;HOMEM-ARANHA 2017 | Trailer Comentado;11/12/2016;Domingo;3;08:07;76305;7569;34;391;Preview;Homem-Aranha;Filmes;Marvel
+65;ROGUE ONE | SEM SPOILERS;16/12/2016;Sexta-Feira;5;08:57;26481;3868;21;302;Review;Rogue One;Filmes;Star Wars
+66;HOMEM-ARANHA | CORAÇÃO DE FERRO pode aparecer em HOMECOMING?;21/12/2016;Quarta-Feira;5;05:18;100686;11764;76;580;Teoria;Homem-Aranha;Filmes;Marvel
+67;BLADE RUNNER 2049 TRAILER | ANÁLISE;23/12/2016;Sexta-Feira;2;06:08;17754;2359;8;111;Preview;Blade Runner;Filmes;Sony
+68;OPERAÇÃO BIG HERO Foi Inspirada nos Quadrinhos;27/12/2016;Terça-Feira;4;09:18;52091;6096;24;188;Origem;Operação Big Hero;Animação;Marvel
+69;TRANSFORMERS 2017 | MEGATRON é o Último Cavaleiro?;31/12/2016;Sábado;4;07:20;469647;30737;430;3316;Teoria;Megatron;Filmes;Transformers
+70;THANOS | Origem;04/01/2017;Quarta-Feira;4;07:51;421327;38879;234;1078;Origem;Thanos;Personagem;Marvel
+71;RECOMENDAÇÕES DO CANAL!;08/01/2017;Domingo;4;04:07;28042;3667;21;228;Recomendação;Vários;Outros;Outros
+72;TODOS OS ROBINS da DC | ORIGEM;13/01/2017;Sexta-Feira;5;10:59;589901;46388;422;3347;Origem;Robin;Personagem;DC Comics
+73;THE FLASH | Temp.03 Ep.09 - IRIS VAI MORRER?;19/01/2017;Quinta-Feira;6;05:40;98723;10725;79;615;Review;Flash;Séries;DC Comics
+74;THE FLASH | OS 5 VELOCISTAS MAIS PERIGOSOS;21/01/2017;Sábado;2;11:10;439010;37827;360;1416;Lista;Flash;Quadrinhos;DC Comics
+75;LOGAN TRAILER 2 | Universo Paralelo?;24/01/2017;Terça-Feira;3;07:35;76471;9477;51;444;Preview;Wolverine;Filmes;Marvel
+76;POWER RANGERS 2017 | Zordon é um Ranger Vermelho?;26/01/2017;Quinta-Feira;2;06:17;134807;13186;71;680;Preview;Power Rangers;Filmes;Power Rangers
+77;UNBOXING PRODUTOS GEEKS | CHICO REI;29/01/2017;Domingo;3;06:18;49234;8212;60;681;Unboxing;Chico Rei;Divulgação;Chico Rei
+78;ADAM WARLOCK EM GUERRA INFINITA?;31/01/2017;Terça-Feira;2;07:46;320709;28284;148;938;Teoria;Adam Warlock;Filmes;Marvel
+79;BATMAN | POR QUE BEN AFFLECK NÃO VAI DIRIGIR O FILME??;02/02/2017;Quinta-Feira;2;04:56;58575;9178;34;551;Noticia;Batman;Filmes;DC Comics
+80;TRANSFORMERS 2017 | TEASER SUPERBOWL - OPTIMUS DO MAL?;06/02/2017;Segunda-Feira;4;07:43;727141;22943;465;1570;Preview;Optimus Prime;Filmes;Transformers
+81;PIRATAS DO CARIBE A VINGANÇA DE SALAZAR | TRAILER 2 REVIEW;07/02/2017;Terça-Feira;1;07:06;141672;8869;82;377;Preview;Piratas do Caribe;Filmes;Disney
+82;LIVROS PARA EXPLODIR SUA CABEÇA Vol.1;10/02/2017;Sexta-Feira;3;09:14;381011;35381;328;1167;Resenha;Vários;Livros;Outros
+83;CAPITÃ MARVEL | ORIGEM - Jujuba ATÔMICA;17/02/2017;Sexta-Feira;7;07:35;572052;49966;588;1233;Origem;Capitã Marvel;Personagem;Marvel
+84;JOIAS DO INFINITO | A Teoria THANOS;22/02/2017;Quarta-Feira;5;08:14;179220;20641;131;1131;Teoria;Vingadores;Filmes;Marvel
+85;THE FLASH | Temp.03 Ep.12 - O DESTINO DE JULIAN;23/02/2017;Quinta-Feira;1;05:39;57702;9067;41;695;Review;Flash;Séries;DC Comics
+86;STRANGER THINGS | Tudo sobre o novo TRAILER;26/02/2017;Domingo;3;08:47;84319;8973;68;420;Preview;Stranger Thinghs;Séries;Netflix
+87;MEGATRON | ORIGEM;02/03/2017;Quinta-Feira;4;10:03;274947;24701;145;939;Origem;Megatron;Personagem;Transformers
+88;LOGAN | Crítica (SEM SPOILERS);06/03/2017;Segunda-Feira;4;09:43;88640;12929;58;832;Review;Wolverine;Filmes;Marvel
+89;THE FLASH | Temp.03 Ep.13 - Ataque em Gorilla City;09/03/2017;Quinta-Feira;3;06:16;41996;5591;25;283;Review;Flash;Séries;DC Comics
+90;KONG - ILHA DA CAVEIRA | CRÍTICA;12/03/2017;Domingo;3;09:39;99088;10737;120;700;Review;Kong;Filmes;Monstroverso
+91;TRANSFORMERS 5 | TRAILER 3 - Megatron / Canopy e mini dinobots;14/03/2017;Terça-Feira;2;06:59;206547;16015;149;3463;Preview;Transformers;Filmes;Transformers
+92;THE FLASH | Temp.03 Ep.14 - UM NOVO VELOCISTA!;16/03/2017;Quinta-Feira;2;07:40;97877;9556;65;644;Review;Flash;Séries;DC Comics
+93;MULHER MARAVILHA | TRAILER 3;17/03/2017;Sexta-Feira;1;08:12;50906;8603;32;458;Preview;Mulher Maravilha;Filmes;DC Comics
+94;UNBOXING | NERD AO CUBO - Caixa 22 (Fevereiro 2017);19/03/2017;Domingo;2;17:30;79609;8883;78;583;Unboxing;Nerd Ao Cubo;Divulgação;Nerd Ao Cubo
+95;THE FLASH | Temp.03 Ep15 - O FIM DE WALLY WEST?;23/03/2017;Quinta-Feira;4;09:06;68513;8258;37;700;Review;Flash;Séries;DC Comics
+96;TRANSFORMERS 2017 | TRAILER 2 (EXTENDIDO);25/03/2017;Sábado;2;10:18;129787;12995;87;742;Preview;Transformers;Filmes;Transformers
+97;LIGA DA JUSTIÇA | TRAILER 2 (review);28/03/2017;Terça-Feira;3;18:06;133237;15452;98;1039;Preview;Liga da Justiça;Filmes;DC Comics
+98;THE FLASH | Tem.03 Ep.16 - A VOLTA DO FLASH NEGRO;30/03/2017;Quinta-Feira;2;08:24;87845;9245;76;609;Review;Flash;Séries;DC Comics
+99;HOMEM-ARANHA 2017 | TRAILER 2 (REVIEW);02/04/2017;Domingo;3;10:34;74044;9693;51;404;Preview;Homem-Aranha;Filmes;Marvel
+100;UNBOXING | NERD AO CUBO - Caixa 23 (MARÇO 2017);04/04/2017;Terça-Feira;2;13:11;87198;7709;94;672;Unboxing;Nerd Ao Cubo;Divulgação;Nerd Ao Cubo
+101;THE FLASH | Ep.17 Temp.03 - FLASH ENCONTRA GLEE;06/04/2017;Quinta-Feira;2;05:17;67836;7136;71;460;Review;Flash;Séries;DC Comics
+102;POWER RANGERS 2017 | CRÍTICA;09/04/2017;Domingo;3;09:31;72309;9550;79;499;Review;Power Rangers;Filmes;Power Rangers
+103;THOR RAGNAROK TRAILER;12/04/2017;Quarta-Feira;3;16:46;178283;19384;138;1070;Preview;Thor;Filmes;Marvel
+104;NERD AO CUBO CAIXA 24 | ABRIL 2017;13/04/2017;Quinta-Feira;1;13:57;56981;6026;55;1292;Unboxing;Nerd Ao Cubo;Divulgação;Nerd Ao Cubo
+105;THE FLASH | Ep.18 Temp.03 - ABRA KADABRA (REVIEW);13/04/2017;Quinta-Feira;0;06:39;51990;6135;29;407;Review;Flash;Séries;DC Comics
+106;TRANSFORMERS 2017 | TRAILER 3 (REVIEW);17/04/2017;Segunda-Feira;4;14:43;158216;13367;87;957;Preview;Transformers;Filmes;Transformers
+107;STAR WARS 2017 | TRAILER REVIEW;21/04/2017;Sexta-Feira;4;11:05;41786;6206;29;327;Preview;The Last Jedi;Filmes;Star Wars
+108;SPAWN | ORIGEM;27/04/2017;Quinta-Feira;6;10:36;475382;42285;267;915;Origem;Spawn;Personagem;Image Comics
+109;GUARDIÕES DA GALÁXIA 2 | REVIEW (SEM SPOILERS);29/04/2017;Sábado;2;10:28;70406;9109;53;474;Review;Guardiões da Galáxia;Filmes;Marvel
+110;UNBOXING | MIXTURE BOX - FEVEREIRO 2017;02/05/2017;Terça-Feira;3;11:54;42143;4831;31;219;Unboxing;Mixture Box;Divulgação;Mixture Box
+111;THE FLASH | Ep.19 Temp.03 (REVIEW);07/05/2017;Domingo;5;09:17;39920;5435;30;496;Review;Flash;Séries;DC Comics
+112;THE FLASH | Ep.20 Temp.03 (REVIEW);08/05/2017;Segunda-Feira;1;08:12;43734;6242;35;388;Review;Flash;Séries;DC Comics
+113;THE FLASH | Ep.21 Temp.03 (REVIEW);11/05/2017;Quinta-Feira;3;08:23;46114;5712;39;321;Review;Flash;Séries;DC Comics
+114;MULHER MARAVILHA TRAILER FINAL | REVIEW;14/05/2017;Domingo;3;09:20;38666;5211;26;353;Preview;Mulher Maravilha;Filmes;DC Comics
+115;UM RECADO MEU PRA VOCÊ!!!!;19/05/2017;Sexta-Feira;5;00:49;22458;5361;9;384;Aviso;Vários;Outros;Outros
+116;THE FLASH | Ep.22 Temp.03 (REVIEW);19/05/2017;Sexta-Feira;0;09:32;47999;6760;21;459;Review;Flash;Séries;DC Comics
+117;TRANSFORMERS TRAILER 3 | Review e Detalhes do Comercial de TV;23/05/2017;Terça-Feira;4;11:03;222893;14955;151;645;Preview;Transformers;Filmes;Transformers
+118;UNBOXING | MIXTURE BOX CAIXA 07 - TERRA MÉDIA;25/05/2017;Quinta-Feira;2;14:07;41147;5037;34;258;Unboxing;Mixture Box;Divulgação;Mixture Box
+119;THE FLASH | Temp.03 Ep.23 (REVIEW);28/05/2017;Domingo;3;08:30;53497;7059;35;855;Review;Flash;Séries;DC Comics
+120;NERD AO CUBO | CAIXA 25 - INVASÃO (MAIO 2017);31/05/2017;Quarta-Feira;3;11:24;50005;5778;41;345;Unboxing;Nerd Ao Cubo;Divulgação;Nerd Ao Cubo
+121;MULHER MARAVILHA 2017 | REVIEW (SEM SPOILERS);02/06/2017;Sexta-Feira;2;10:37;59866;9837;50;487;Review;Mulher Maravilha;Filmes;DC Comics
+122;PIRATAS DO CARIBE 2017 | REVIEW (SEM SPOILERS);05/06/2017;Segunda-Feira;3;08:06;32324;4948;31;230;Review;Piratas do Caribe;Filmes;Disney
+123;UNBOXING | MIXTURE BOX 08 - SOMOS SELVAGENS;08/06/2017;Quinta-Feira;3;09:54;34043;4279;19;155;Unboxing;Mixture Box;Divulgação;Mixture Box
+124;TRANSFORMERS 5 | MAIS SPOTS E MAIS UM TRAILER;12/06/2017;Segunda-Feira;4;08:13;102355;10220;74;622;Preview;Transformers;Filmes;Transformers
+125;PANTERA NEGRA | ORIGEM;16/06/2017;Sexta-Feira;4;11:52;245094;23941;148;504;Origem;Pantera Negra;Personagem;Marvel
+126;PANTERA NEGRA TRAILER 1 | REVIEW;20/06/2017;Terça-Feira;4;11:12;64088;8510;39;236;Preview;Pantera Negra;Filmes;Marvel
+127;UNBOXING | CLUBE CASA GEEK (MAIO);22/06/2017;Quinta-Feira;2;10:18;25211;3658;21;133;Unboxing;Clube Casa Geek;Divulgação;Clube Casa Geek
+128;GAME OF THRONES Trailer 2 TEMPORADA 7 | REVIEW;26/06/2017;Segunda-Feira;4;10:32;17519;2880;14;118;Preview;Game Of Thrones;Séries;George R. R. Martin
+129;2001 - Uma Odisséia no Espaço | RESENHA;28/06/2017;Quarta-Feira;2;09:17;51935;6758;36;238;Resenha;Ficção Científica;Livros;Arthur C. Clarke
+130;UNBOXING | MIXTURE BOX 09 (JUNHO 2017) - THE MASTERS;30/06/2017;Sexta-Feira;2;11:13;37038;4150;27;187;Unboxing;Mixture Box;Divulgação;Mixture Box
+131;NERD AO CUBO | CAIXA 26 - AVENTURA (JUNHO 2017);03/07/2017;Segunda-Feira;3;11:11;51171;5173;42;192;Unboxing;Nerd Ao Cubo;Divulgação;Nerd Ao Cubo
+132;HOMEM-ARANHA 2017 | REVIEW (SEM SPOILERS);08/07/2017;Sábado;5;12:51;70988;9975;57;485;Review;Homem-Aranha;Filmes;Marvel
+133;O ÚLTIMO EPISÓDIO DE CAVERNA DO DRAGÃO;16/07/2017;Domingo;8;03:43;76172;13979;79;408;Resenha;Caverna do Dragão;Desenho;Caverna do Dragão
+134;GAME OF THRONES | TEMPORADA 07 EPISÓDIO 01 (REVIEW);17/07/2017;Segunda-Feira;1;09:57;23657;3541;21;190;Review;Game Of Thrones;Séries;George R. R. Martin
+135;MIXTURE BOX 10 | FROM HELL (JULHO 2017);22/07/2017;Sábado;5;09:54;33020;4304;41;240;Unboxing;Mixture Box;Divulgação;Mixture Box
+136;TRANSFORMERS 5 - O ÚLTIMO CAVALEIRO (REVIEW);24/07/2017;Segunda-Feira;2;09:43;132837;15388;246;1198;Review;Transformers;Filmes;Transformers
+137;GAME OF THRONES | TEMPORADA 07 EPISÓDIO 02 (REVIEW);24/07/2017;Segunda-Feira;0;08:53;17678;2704;12;151;Review;Game Of Thrones;Séries;George R. R. Martin
+138;LIGA DA JUSTIÇA TRAILER 3 | REVIEW;25/07/2017;Terça-Feira;1;14:30;84183;11198;132;874;Preview;Liga da Justiça;Filmes;DC Comics
+139;GAME OF THRONES | TEMPORADA 07 EPISÓDIO 03 (REVIEW);01/08/2017;Terça-Feira;7;09:51;18467;3213;26;218;Review;Game Of Thrones;Séries;George R. R. Martin
+140;THOR RAGNAROK TRAILER | CONSIDERAÇÕES E BILL RAIO BETA;03/08/2017;Quinta-Feira;2;13:35;83830;11473;68;362;Preview;Thor;Filmes;Marvel
+141;GAME OF THRONES | EPISÓDIO 04 TEMPORADA 07 (REVIEW);07/08/2017;Segunda-Feira;4;10:54;25760;4533;24;317;Review;Game Of Thrones;Séries;George R. R. Martin
+142;NERD AO CUBO | CAIXA 27 - FANTASIA (JULHO 2017);08/08/2017;Terça-Feira;1;09:33;37485;4463;24;142;Unboxing;Nerd Ao Cubo;Divulgação;Nerd Ao Cubo
+143;PLANETA DOS MACACOS - A GUERRA | REVIEW (SEM SPOILERS);12/08/2017;Sábado;4;10:45;31732;5061;29;199;Review;Planeta dos Macacos;Filmes;Planeta dos Macacos
+144;GAME OF THRONES | EPISÓDIO 05 TEMPORADA 07 (REVIEW);14/08/2017;Segunda-Feira;2;15:07;26279;4868;26;612;Review;Game Of Thrones;Séries;George R. R. Martin
+145;PLACA DOS CEM MIL INSCRITOS | E UM POUCO SOBRE MIM...;15/08/2017;Terça-Feira;1;06:38;27324;7839;8;1078;Especial;Gustavo Cunha;Especial;Gustavo Cunha
+146;GEORGES MÉLIÈS | O Verdadeiro Inventor do Cinema;20/08/2017;Domingo;5;11:03;37652;5892;30;279;Origem;Georges Méliès;Personalidade;Georges Méliès
+147;GAME OF THRONES | EPISÓDIO 06 TEMPORADA 07;21/08/2017;Segunda-Feira;1;11:13;27685;5429;30;351;Review;Game Of Thrones;Séries;George R. R. Martin
+148;O PLANO PARA MATAR VISERION | (TEORIA GAME OF THRONES);24/08/2017;Quinta-Feira;3;05:28;80723;9025;120;378;Teoria;Game Of Thrones;Séries;George R. R. Martin
+149;NERD AO CUBO | CAIXA 28 - CONFRONTO (AGOSTO 2017);26/08/2017;Sábado;2;07:06;34533;3882;31;168;Unboxing;Nerd Ao Cubo;Divulgação;Nerd Ao Cubo
+150;GAME OF THRONES | EPISÓDIO 07 TEMPORADA 07 (Último Episódio);28/08/2017;Segunda-Feira;2;13:44;43287;6849;52;285;Review;Game Of Thrones;Séries;George R. R. Martin
+151;THANOS - ORDEM NEGRA | GUERRA INFINITA;03/09/2017;Domingo;6;09:51;245694;26055;114;461;Origem;Ordem Negra;Personagem;Marvel
+152;SHAZAM | ORIGEM;06/09/2017;Quarta-Feira;3;11:16;622468;57565;364;1395;Origem;Shazam;Personagem;DC Comics
+153;LIVROS PRA EXPLODIR SUA CABEÇA VOL.2 | ASIMOV / CRICHTON / GIBSON;09/09/2017;Sábado;3;13:47;121002;14442;48;367;Resenha;Ficção Científica;Livros;Outros
+154;LIGA DA JUSTIÇA | A MORTE DO SUPERMAN E O UNIFORME PRETO NO CINEMA;12/09/2017;Terça-Feira;3;12:49;151395;21196;78;637;Preview;Liga da Justiça;Filmes;DC Comics
+155;UNBOXING DUPLO | MIXTURE BOX - CAIXAS 11 E 12;18/09/2017;Segunda-Feira;6;15:05;93124;6900;62;370;Unboxing;Mixture Box;Divulgação;Mixture Box
+156;O DIA EM QUE A MARVEL FALIU!!;19/09/2017;Terça-Feira;1;09:57;183153;27052;98;1366;Resenha;Marvel;Quadrinhos;Marvel
+157;CORAÇÃO DE AÇO | LIVRO I DA SÉRIE DOS EXECUTORES;22/09/2017;Sexta-Feira;3;10:34;83117;12860;48;707;Resenha;Coração de Aço;Livros;Executores
+158;VENOM | ORIGEM;26/09/2017;Terça-Feira;4;11:28;476703;42569;263;851;Origem;Venom;Personagem;Marvel
+159;STAR TREK DISCOVERY | NETFLIX;28/09/2017;Quinta-Feira;2;07:57;34720;5710;28;380;Review;Star Trek;Séries;Star Trek
+160;NERD AO CUBO | CAIXA 29 - PLAYER (SETEMBRO 2017);01/10/2017;Domingo;3;08:59;33568;4585;27;165;Unboxing;Nerd Ao Cubo;Divulgação;Nerd Ao Cubo
+161;NOVIDADE ESSA SEMANA!!!;01/10/2017;Domingo;0;00:55;16040;3662;9;191;Aviso;Vários;Outros;Outros
+162;CARNIFICINA | ORIGEM (A SEMANA DO SIMBIONTE);02/10/2017;Segunda-Feira;1;04:49;450790;40003;223;702;Origem;Carnificina;Personagem;Marvel
+163;TOXINA | ORIGEM (A SEMANA DO SIMBIONTE);03/10/2017;Terça-Feira;1;08:44;540045;45208;255;917;Origem;Toxina;Personagem;Marvel
+164;ANTI-VENOM | ORIGEM (A SEMANA DO SIMBIONTE);04/10/2017;Quarta-Feira;1;07:52;571585;47909;289;689;Origem;Anti-Venom;Personagem;Marvel
+165;GRITO (SCREAM) | ORIGEM (A SEMANA DO SIMBIONTE);05/10/2017;Quinta-Feira;1;07:13;359695;34378;125;781;Origem;Grito;Personagem;Marvel
+166;HÍBRIDO (HYBRID) | ORIGEM (A SEMANA DO SIMBIONTE);06/10/2017;Sexta-Feira;1;07:42;415432;45251;155;1500;Origem;Híbrido;Personagem;Marvel
+167;CÍRCULO DE FOGO 2 | TRAILER COMENTADO;08/10/2017;Domingo;2;13:30;196897;18737;156;962;Preview;Círculo de Fogo;Filmes;Círculo de Fogo
+168;LIGA DA JUSTIÇA | TRAILER COMENTADO;10/10/2017;Terça-Feira;2;13:17;73118;12191;57;770;Preview;Liga da Justiça;Filmes;DC Comics
+169;STAR WARS - OS ÚLTIMOS JEDI | TRAILER COMENTADO;13/10/2017;Sexta-Feira;3;14:15;52415;8610;35;548;Preview;Os Últimos Jedi;Filmes;Star Wars
+170;THE FLASH (SÉRIE) | Temporada 04 Episódio 01 (REVIEW);15/10/2017;Domingo;2;10:51;60019;8914;50;430;Review;Flash;Séries;DC Comics
+171;STRANGER THINGS TEMPORADA 2 | TRAILER REVIEW;17/10/2017;Terça-Feira;2;17:00;33050;5503;9;454;Preview;Stranger Thinghs;Séries;Netflix
+172;PANTERA NEGRA TRAILER 2 | REVIEW;19/10/2017;Quinta-Feira;2;15:35;156679;17472;91;936;Preview;Pantera Negra;Filmes;Marvel
+173;THE FLASH (SÉRIE) | Temporada 04 Episódio 02 (REVIEW);21/10/2017;Sábado;2;09:08;37130;6050;31;453;Review;Flash;Séries;DC Comics
+174;BLADE RUNNER 2049 | REVIEW / CRÍTICA (SEM SPOILERS);24/10/2017;Terça-Feira;3;09:45;16137;3193;8;232;Review;Blade Runner;Séries;Sony
+175;GUERRA INFINITA 2018 | A ARMADURA DO HOMEM DE FERRO;25/10/2017;Quarta-Feira;1;05:52;282274;28713;224;1297;Noticia;Homem de Ferro;Filmes;Marvel
+176;THE FLASH (SÉRIE) | Temporada 04 Episódio 03 (REVIEW);26/10/2017;Quinta-Feira;1;07:46;30111;4861;11;193;Review;Flash;Séries;DC Comics
+177;THOR RAGNAROK | REVIEW / CRÍTICA (SEM SPOILERS);27/10/2017;Sexta-Feira;1;10:38;81002;13041;135;794;Review;Thor;Filmes;Marvel
+178;NERD AO CUBO UNBOXING DUPLO | CAIXA 30 OUTUBRO 2017 / CAIXA ESPECIAL BLIZZARD;31/10/2017;Terça-Feira;4;12:50;43775;5553;34;354;Unboxing;Nerd Ao Cubo;Divulgação;Nerd Ao Cubo
+179;THE FLASH (SÉRIE) | Temporada 04 Episódio 04;01/11/2017;Quarta-Feira;1;09:11;32915;5278;27;246;Review;Flash;Séries;DC Comics
+180;O FILME DO VENOM VAI BAGUNÇAR O UNIVERSO MARVEL?;02/11/2017;Quinta-Feira;1;12:18;260876;29912;221;1450;Teoria;Venom;Filmes;Marvel
+181;STRANGER THINGS 2 | REVIEW / CRÍTICA E QUESTÕES PARA A TEMPORADA 3;05/11/2017;Domingo;3;13:10;49463;9020;33;803;Review;Stranger Thinghs;Séries;Netflix
+182;MIXTURE BOX | OUTUBRO 2017 CRIATURAS FANTÁSTICAS 2 (UNBOXING);07/11/2017;Terça-Feira;2;09:14;28938;3959;15;87;Unboxing;Mixture Box;Divulgação;Mixture Box
+183;A DISNEY VAI COMPRAR A FOX | OS X-MEN E O QUARTETO FANTÁSTICO VÃO VOLTAR PARA A MARVEL?;07/11/2017;Terça-Feira;0;06:17;86737;14874;57;996;Noticia;X-Men;Filmes;Marvel
+184;THE FLASH SÉRIE | Temporada 04 Episódio 05;09/11/2017;Quinta-Feira;2;10:29;29917;5143;22;401;Review;Flash;Séries;DC Comics
+185;SURPRESA! MAIS UMA SEMANA ESPECIAL CHEGANDO!;13/11/2017;Segunda-Feira;4;00:55;15960;4564;12;297;Aviso;Vários;Outros;Outros
+186;SUPERMAN ORIGEM | A SEMANA DA JUSTIÇA;13/11/2017;Segunda-Feira;0;10:46;136258;21769;101;1013;Origem;Superman;Personagem;DC Comics
+187;BATMAN ORIGEM | A SEMANA DA JUSTIÇA;14/11/2017;Terça-Feira;1;12:10;176888;24796;107;1034;Origem;Batman;Personagem;DC Comics
+188;MULHER MARAVILHA ORIGEM | A SEMANA DA JUSTIÇA;15/11/2017;Quarta-Feira;1;09:54;100657;15494;69;495;Origem;Mulher Maravilha;Personagem;DC Comics
+189;LIGA DA JUSTIÇA 2017 (SEM SPOILERS) CRÍTICA / REVIEW | A SEMANA DA JUSTIÇA;17/11/2017;Sexta-Feira;2;10:41;103029;16911;140;983;Review;Liga da Justiça;Filmes;DC Comics
+190;FLASH ORIGEM | A SEMANA DA JUSTIÇA;18/11/2017;Sábado;1;10:57;104936;18650;80;920;Origem;Flash;Personagem;DC Comics
+191;CYBORG ORIGEM | A SEMANA DA JUSTIÇA;19/11/2017;Domingo;1;08:34;112409;16674;47;450;Origem;Cyborg;Personagem;DC Comics
+192;AQUAMAN ORIGEM | A SEMANA DA JUSTIÇA;20/11/2017;Segunda-Feira;1;09:01;110295;16860;70;726;Origem;Aquaman;Personagem;DC Comics
+193;THE FLASH SÉRIE | Temporada 04 Episódio 06;23/11/2017;Quinta-Feira;3;09:26;22846;3981;13;217;Review;Flash;Séries;DC Comics
+194;THE FLASH SÉRIE | Temporada 04 Episódio 07;24/11/2017;Sexta-Feira;1;08:53;26829;4480;13;220;Review;Flash;Séries;DC Comics
+195;NERD AO CUBO HEROIS | NOVEMBRO 2017;25/11/2017;Sábado;1;14:59;49520;6804;42;291;Unboxing;Nerd Ao Cubo;Divulgação;Nerd Ao Cubo
+196;VINGADORES GUERRA INFINITA TRAILER | REVIEW;30/11/2017;Quinta-Feira;5;16:47;310704;35606;216;2175;Preview;Vingadores;Filmes;Marvel
+197;THE FLASH SÉRIE | CRISE NA TERRA X CROSSOVER (temporada 04);06/12/2017;Quarta-Feira;6;11:53;68176;8624;56;568;Preview;Flash;Séries;DC Comics
+198;O UNIFORME PRETO DO SUPERMAN FOI CORTADO DO FILME DA LIGA DA JUSTIÇA | A CULPA É DO ZACK SNYDER???;09/12/2017;Sábado;3;09:12;94220;15868;84;1087;Teoria;Liga da Justiça;Filmes;DC Comics
+199;THE FLASH SÉRIE | Temporada 04 Episódio 09;12/12/2017;Terça-Feira;3;08:19;28656;4963;20;218;Review;Flash;Séries;DC Comics
+200;STAR WARS EPISÓDIO 8 - OS ÚLTIMOS JEDI (SEM SPOILERS) | REVIEW / CRÍTICA;15/12/2017;Sexta-Feira;3;11:49;59650;9584;84;489;Review;Os Últimos Jedi;Filmes;Star Wars
+201;SIM, A DISNEY COMPROU A FOX | O QUE ISSO SIGNIFICA?;17/12/2017;Domingo;2;08:32;99391;19263;77;868;Noticia;Disney;Outros;Disney
+202;O FILME DO QUARTETO FANTÁSTICO QUE VOCÊ NUNCA VAI VER!;18/12/2017;Segunda-Feira;1;08:21;81652;13950;44;414;Resenha;Quarteto Fantástico;Filmes;Marvel
+203;ANIMAÇÃO ARANHAVERSO E A ORIGEM DE MILES MORALES - O HOMEM ARANHA ULTIMATE;22/12/2017;Sexta-Feira;4;09:34;103794;14690;73;464;Preview;Homem-Aranha;Filmes;Marvel
+204;BRIGHT - ESTREIA NETFLIX (SEM SPOILERS);25/12/2017;Segunda-Feira;3;08:34;57642;10818;52;522;Review;Bright;Filmes;Netflix
+205;UNBOXING - MIXTURE BOX | NOVEMBRO 2017 - ANIME;27/12/2017;Quarta-Feira;2;09:00;30222;5421;22;546;Unboxing;Mixture Box;Divulgação;Mixture Box
+206;GUERRA INFINITA VAI TRAZER VIAGENS NO TEMPO PARA MUDAR A FASE 4 DA MARVEL?;28/12/2017;Quinta-Feira;1;10:33;145855;21041;123;1260;Teoria;Vingadores;Filmes;Marvel
+207;GUERRA INFINITA | OS ILLUMINATI PODEM APARECER? (TEORIA);31/12/2017;Domingo;3;09:40;164531;22986;126;976;Teoria;Vingadores;Filmes;Marvel
+208;UNBOXING MIXTURE BOX | DEZEMBRO 2017;04/01/2018;Quinta-Feira;4;09:32;42695;6446;39;235;Unboxing;Mixture Box;Divulgação;Mixture Box
+209;FILMES 2018 | OS MAIS ESPERADOS E AS POSSÍVEIS SURPRESAS;04/01/2018;Quinta-Feira;0;18:17;109403;15657;105;823;Recomendação;Vários;Filmes;Outros
+210;CONTOS DE HP LOVECRAFT | MEDO CLÁSSICO VOL 1 - DARKSIDE BOOKS (RESENHA);12/01/2018;Sexta-Feira;8;12:53;235893;28672;141;940;Resenha;Contos;Livros;HP Lovecraft
+211;UNBOXING MIXTURE BOX | CAIXA SURPRESA... E EU CONFUNDINDO TUDO!!;13/01/2018;Sábado;1;08:16;48360;6984;43;262;Unboxing;Mixture Box;Divulgação;Mixture Box
+212;RAIO NEGRO DC - ORIGEM | ESTREIA NETFLIX - SÉRIE;16/01/2018;Terça-Feira;3;11:07;147165;20249;89;793;Origem;Raio Negro;Personagem;DC Comics
+213;O HOMEM-ARANHA VAI APARECER NO FILME DO VENOM?;18/01/2018;Quinta-Feira;2;06:55;73988;12315;47;572;Teoria;Homem-Aranha;Filmes;Marvel
+214;GUERRA INFINITA | IMAGENS DOS BASTIDORES PODEM NÃO SER DE VIAGENS NO TEMPO (TEORIA);19/01/2018;Sexta-Feira;1;07:31;184768;25901;702;957;Teoria;Vingadores;Filmes;Marvel
+215;GUERRA INFINITA | CAPITÃO AMÉRICA SERÁ O NÔMADE? ALIÁS, QUEM É O NÔMADE? (ORIGEM);20/01/2018;Sábado;1;07:05;191153;25954;117;591;Origem;Nômade;personagem;Marvel
+216;THE FLASH SÉRIE | Temporada 04 Episódio 10;22/01/2018;Segunda-Feira;2;10:32;26648;5502;14;222;Review;Flash;Séries;DC Comics
+217;MOBY DICK | QUADRINHO PIPOCA E NANQUIM;23/01/2018;Terça-Feira;1;09:45;46685;7872;37;289;Resenha;Moby Dick;Livros;Moby Dick
+218;THE FLASH SÉRIE | Temporada 04 Episódio 11;24/01/2018;Quarta-Feira;1;07:37;24810;4853;20;243;Review;Flash;Séries;DC Comics
+219;CÍRCULO DE FOGO 2 | TRAILER 2 - DETALHES QUE VOCÊ DEIXOU PASSAR!;25/01/2018;Quinta-Feira;1;11:52;137431;17644;125;747;Preview;Círculo de Fogo;Filmes;Círculo de Fogo
+220;COME TOGETHER - The Beatles (TEMA DE LIGA DA JUSTIÇA) | versão Gustavo Cunha / Thiago Marques;28/01/2018;Domingo;3;02:44;85141;16329;104;1408;Música;Liga da Justiça;Filmes;Gustavo Cunha
+221;CAPITÃ MARVEL - UNIFORME VERDE | QUE UNIFORME É ESSE? - Jujuba ATÔMICA;29/01/2018;Segunda-Feira;1;08:42;244262;28428;121;847;Noticia;Capitã Marvel;Filmes;Marvel
+222;PANTERA NEGRA - OS PODERES DO NOVO TRAJE | O TRAJE DO VILÃO;30/01/2018;Terça-Feira;1;08:17;118098;18344;87;462;Noticia;Pantera Negra;Filmes;Marvel
+223;HOMEM FORMIGA E VESPA TRAILER | DETALHES QUE VOCÊ NÃO PERCEBEU | LINHA DO TEMPO MARVEL;31/01/2018;Quarta-Feira;1;10:57;130969;20068;86;617;Preview;Homem-Formiga;Filmes;Marvel
+224;THE FLASH SÉRIE | Temporada 04 Episódio 12;02/02/2018;Sexta-Feira;2;09:03;26664;4958;16;245;Review;Flash;Séries;DC Comics
+225;A FORMA DA ÁGUA (SEM SPOILERS) | VENCEDOR DO OSCAR 2018 - Jujuba ATÔMICA;03/02/2018;Sábado;1;09:34;52742;8765;50;311;Review;A Forma da Água;Filmes;A Forma da Água
+226;TUDO SOBRE THE WALKING DEAD | UM LIVRO PARA FÃS E PARA NÃO INICIADOS! - Jujuba ATÔMICA;04/02/2018;Domingo;1;07:51;23147;4453;21;228;Resenha;The Walking Dead;Livros;The Walking Dead
+227;VINGADORES GUERRA INFINITA 2018 | TRAILER SUPER BOWL (DETALHES E CURIOSIDADES) - Jujuba ATÔMICA;05/02/2018;Segunda-Feira;1;11:06;141121;23267;88;911;Preview;Vingadores;Filmes;Marvel
+228;HAN SOLO - STAR WARS 2018 TRAILER | DETALHES QUE VOCÊ NÃO PERCEBEU - Jujuba ATÔMICA;07/02/2018;Quarta-Feira;2;12:20;30582;5466;22;235;Preview;Han Solo;Filmes;Star Wars
+229;DEADPOOL 2 TRAILER | DETALHES QUE VOCÊ PERDEU! - Jujuba ATÔMICA;08/02/2018;Quinta-Feira;1;11:33;141075;20350;65;551;Preview;Deadpool;Filmes;Marvel
+230;VENOM 2018 (TEASER) | DETALHES QUE VOCÊ DEIXOU ESCAPAR! - Jujuba ATÔMICA;08/02/2018;Quinta-Feira;0;08:57;144879;19171;116;702;Preview;Venom;Filmes;Marvel
+231;THE FLASH SÉRIE | Temporada 04 Episódio 13 - Jujuba ATÔMICA;10/02/2018;Sábado;2;08:11;24770;4434;13;186;Review;Flash;Séries;DC Comics
+232;CLOVERFIELD PARADOX EXPLICADO | COMO ELE SE CONECTA COM OS OUTROS FILMES? - NETFLIX - Jujuba ATÔMICA;11/02/2018;Domingo;1;11:00;96887;13176;62;728;Explicação;Cloverfielda;Filmes;Cloverfield
+233;UNIFORME PRETO DO SUPERMAN | O QUE A CENA DELETADA REVELA SOBRE A VERSÃO DE ZACK SNYDER;12/02/2018;Segunda-Feira;1;08:46;83719;14415;57;857;Teoria;SnyderCut;Filmes;DC Comics
+234;A NOVA ARMA DO THOR E A ORIGEM DE BILL RAIO BETA | VINGADORES - GUERRA INFINITA;13/02/2018;Terça-Feira;1;09:38;231671;31418;159;906;Noticia;Vingadores;Filmes;Marvel
+235;STAR TREK DISCOVERY | REVIEW DA PRIMEIRA TEMPORADA - NETFLIX - Jujuba ATÔMICA;14/02/2018;Quarta-Feira;1;11:53;33520;5333;43;427;Review;Discovery;Séries;Star Trek
+236;PANTERA NEGRA FILME 2018 | REVIEW SEM SPOILERS - Jujuba ATÔMICA;16/02/2018;Sexta-Feira;2;10:19;90969;15698;60;790;Review;Pantera Negra;Filmes;Marvel
+237;UNBOXING MIXTURE BOX (NOSTALGIA JANEIRO 2018) | ALF / A HISTÓRIA SEM FIM / MAcGYVER - Jujuba ATÔMICA;17/02/2018;Sábado;1;07:58;35455;5358;22;268;Unboxing;Mixture Box;Divulgação;Mixture Box
+238;TRANSFORMERS | REBOOT DEPOIS DO FILME DO BUMBLEBEE? - Jujuba ATÔMICA;19/02/2018;Segunda-Feira;2;07:50;124009;16578;98;948;Noticia;Transformers;Filmes;Transformers
+239;PANTERA NEGRA | CENA PÓS-CRÉDITOS EXPLICADA - Jujuba ATÔMICA;20/02/2018;Terça-Feira;1;07:41;290833;23237;246;460;Explicação;Pantera Negra;Filmes;Marvel
+240;QUAIS JOIAS DO INFINITO ESTÃO COM THANOS (E A JOIA DA ALMA?) | VINGADORES - GUERRA INFINITA;21/02/2018;Quarta-Feira;1;08:07;106860;16445;78;778;Teoria;Vingadores;Filmes;Marvel
+241;SHURI NO LUGAR DO HOMEM DE FERRO? | VINGADORES - GUERRA INFINITA - Jujuba ATÔMICA;23/02/2018;Sexta-Feira;2;08:22;184830;20648;209;990;Teoria;Vingadores;Filmes;Marvel
+242;SUPERMAN ENTRE A FOICE E O MARTELO | REVIEW - Jujuba ATÔMICA;26/02/2018;Segunda-Feira;3;07:56;90752;15911;117;1106;Resenha;Superman;Quadrinhos;DC Comics
+243;PANTERA NEGRA | O QUE MUDOU DOS QUADRINHOS PARA O CINEMA? - Jujuba ATÔMICA;28/02/2018;Quarta-Feira;2;08:32;75335;11695;22;212;Resenha;Pantera Negra;Quadrinhos;Marvel
+244;THE FLASH | TEMPORADA 04 - EPISÓDIO 14 - Jujuba ATÔMICA;01/03/2018;Quinta-Feira;1;08:14;23507;4118;20;200;Review;Flash;Séries;DC Comics
+245;MARVEL CONFIRMA A EXISTÊNCIA DA JOIA DA ALMA E O CAVEIRA VERMELHA PODE VOLTAR!;02/03/2018;Sexta-Feira;1;07:06;227634;25307;151;970;Noticia;Joias do Infinito;Filmes;Marvel
+246;JESSICA JONES - ORIGEM | Jujuba ATÔMICA;05/03/2018;Segunda-Feira;3;05:45;63841;9361;35;230;Origem;Jessica Jones;personagem;Marvel
+247;HULK VAI ESTAR DENTRO DA HULKBUSTER? POR QUÊ? - VINGADORES GUERRA INFINITA 2018 - Jujuba ATÔMICA;06/03/2018;Terça-Feira;1;06:58;335784;28934;454;891;Teoria;Vingadores;Filmes;Marvel
+248;PERDIDOS NO ESPAÇO TRAILER OFICIAL NETFLIX MOSTRA VÁRIAS MUDANÇAS INTERESSANTES;07/03/2018;Quarta-Feira;1;06:02;96353;8929;91;410;Preview;Perdidos no Espaço;Séries;Perdidos no Espaço
+249;THE FLASH | TEMPORADA 04 - EPISÓDIO 15 - Jujuba ATÔMICA;08/03/2018;Quinta-Feira;1;07:16;25966;4382;19;256;Review;Flash;Séries;DC Comics
+250;POR QUE O FILME DA CAPITÃ MARVEL VAI SE PASSAR NOS ANOS 90? - Jujuba ATÔMICA;10/03/2018;Sábado;2;07:04;472874;32863;261;793;Noticia;Capitã Marvel;Filmes;Marvel
+251;MARVEL REVELA OS PLANOS DE THANOS EM GUERRA INFINITA 2018 - Jujuba ATÔMICA;12/03/2018;Segunda-Feira;2;06:25;218665;23134;153;611;Noticia;Vingadores;Filmes;Marvel
+252;OS CELESTIAIS PODEM APARECER EM GUERRA INFINITA 2018? - Jujuba ATÔMICA;13/03/2018;Terça-Feira;1;06:35;443497;37238;399;1210;Teoria;Celestiais;Filmes;Marvel
+253;THE FLASH | TEMPORADA 04 - EPISÓDIO 16 - Jujuba ATÔMICA;15/03/2018;Quinta-Feira;2;08:31;28096;4281;24;279;Review;Flash;Séries;DC Comics
+254;VINGADORES GUERRA INFINITA TRAILER 2 OFICIAL (REVIEW) - Jujuba ATÔMICA;17/03/2018;Sábado;2;14:58;191400;28128;112;1822;Preview;Vingadores;Filmes;Marvel
+255;JOGADOR NÚMERO 1 | POR QUE VOCÊ DEVE LER ESSE LIVRO! - Jujuba ATÔMICA;21/03/2018;Quarta-Feira;4;09:58;70573;10071;40;484;Resenha;Jogador Nº 1;Livros;Jogador Nº1
+256;CÍRCULO DE FOGO 2 - A REVOLTA | SEM SPOILERS - Jujuba ATÔMICA;22/03/2018;Quinta-Feira;1;07:28;88464;13318;96;545;Review;Círculo de Fogo;Filmes;Círculo de Fogo
+257;DEADPOOL 2 TRAILER 2 | TODOS OS DETALHES QUE VOCÊ DEIXOU PASSAR! - Jujuba ATÔMICA;25/03/2018;Domingo;3;11:37;71580;12206;48;397;Preview;Deadpool;Filmes;Marvel
+258;JOGADOR NÚMERO 1 | EYE OF THE TIGER - PLAYLIST OFICIAL SPOTIFY;27/03/2018;Terça-Feira;2;03:22;52793;9192;49;921;Música;Jogador Nº 1;Filmes;Jogador Nº1
+259;DEADPOOL 2 | X-FORCE (ORIGEM) - Jujuba ATÔMICA;29/03/2018;Quinta-Feira;2;07:49;151991;18818;86;398;Origem;X-Force;personagem;Marvel
+260;JOGADOR NÚMERO 1 | SEM SPOILERS - Jujuba ATÔMICA;30/03/2018;Sexta-Feira;1;10:21;66755;10938;50;467;Review;Jogador Nº 1;Filmes;Jogador Nº1
+261;MIXTURE BOX CAIXA 18 (TEMA: OBSCURO) - Jujuba ATÔMICA;02/04/2018;Segunda-Feira;3;05:57;34868;5335;44;222;Unboxing;Mixture Box;Divulgação;Mixture Box
+262;CADÊ O GAVIÃO ARQUEIRO? | VINGADORES GUERRA INFINITA - Jujuba ATÔMICA;04/04/2018;Quarta-Feira;2;07:16;153082;19301;103;874;Teoria;Vingadores;Filmes;Marvel
+263;ELFOS (EDITORA MYTHOS) - Jujuba ATÔMICA;06/04/2018;Sexta-Feira;2;08:00;28834;4916;16;209;Resenha;Elfos;Livros;Mythos
+264;HAN SOLO - UMA HISTÓRIA STAR WARS TRAILER 2 - DESTRINCHANDO O TRAILER | Jujuba ATÔMICA;09/04/2018;Segunda-Feira;3;12:13;21867;3986;15;162;Preview;Han Solo;Filmes;Star Wars
+265;O DESTINO DO CAPITÃO AMÉRICA | VINGADORES GUERRA INFINITA - Jujuba ATÔMICA;11/04/2018;Quarta-Feira;2;10:10;120110;16141;76;725;Teoria;Vingadores;Filmes;Marvel
+266;THE FLASH | EPISÓDIO 17 TEMPORADA 04 - Jujuba ATÔMICA;12/04/2018;Quinta-Feira;1;08:26;24709;3970;20;175;Review;Flash;Séries;DC Comics
+267;SEXTA-FEIRA 13 | DIA DAS BRUXAS - OS CASOS DE ED E LORRAINE WARREN - Jujuba ATÔMICA;13/04/2018;Sexta-Feira;1;11:33;31389;5808;33;330;Contos;Terror;Histórias;Outros
+268;NOVAS IMAGENS DE GUERRA INFINITA | OS DETALHES QUE VOCÊ NÃO PERCEBEU - Jujuba ATÔMICA;17/04/2018;Terça-Feira;4;09:11;256605;21478;171;1049;Review;Vingadores;Filmes;Marvel
+269;THANOS VAI VENCER O HULK | VINGADORES GUERRA INFINITA - Jujuba ATÔMICA;18/04/2018;Quarta-Feira;1;07:27;163694;17432;128;921;Teoria;Vingadores;Filmes;Marvel
+270;THE FLASH | EPISÓDIO 18 TEMPORADA 04 - Jujuba ATÔMICA;19/04/2018;Quinta-Feira;1;08:37;22600;3862;20;245;Review;Flash;Séries;DC Comics
+271;DEADPOOL 2 TRAILER FINAL | DETALHES QUE VOCÊ DEIXOU PASSAR - Jujuba ATÔMICA;21/04/2018;Sábado;2;11:52;69083;10400;36;413;Preview;Deadpool;Filmes;Marvel
+272;MARADA - A MULHER-LOBO | Quadrinho Pipoca e Nanquim - Jujuba ATÔMICA;22/04/2018;Domingo;1;06:23;19727;3642;14;100;Resenha;Marada-A Mulher Lobo;Quadrinhos;Outros
+273;ANÚNCIO IMPORTANTE - Jujuba ATÔMICA;22/04/2018;Domingo;0;01:28;53128;12581;50;741;Aviso;Vários;Outros;Outros
+274;O NOVA PODE APARECER EM GUERRA INFINITA? - Jujuba ATÔMICA;23/04/2018;Segunda-Feira;1;06:52;183842;21647;119;751;Teoria;Vingadores;Filmes;Marvel
+275;VENOM - TRAILER | TUDO O QUE VOCÊ DEIXOU PASSAR - Jujuba ATÔMICA;24/04/2018;Terça-Feira;1;10:29;103819;16352;50;695;Preview;Venom;Filmes;Marvel
+276;O QUE VAI ACONTECER EM VINGADORES 4? - Jujuba ATÔMICA;25/04/2018;Quarta-Feira;1;09:36;363343;26426;274;1089;Teoria;Vingadores;Filmes;Marvel
+277;THE FLASH | EPISÓDIO 19 TEMPORADA 04 - Jujuba ATÔMICA;26/04/2018;Quinta-Feira;1;06:08;22237;3432;18;140;Review;Flash;Séries;DC Comics
+278;VINGADORES GUERRA INFINITA | SEM SPOILERS - Jujuba ATÔMICA;27/04/2018;Sexta-Feira;1;09:04;118691;19636;84;1015;Review;Vingadores;Filmes;Marvel
+279;VINGADORES GUERRA INFINITA COM SPOILERS - Jujuba ATÔMICA;29/04/2018;Domingo;2;11:39;239513;35464;162;2269;Review;Vingadores;Filmes;Marvel
+280;MIXTURE BOX | CAIXA 19 (FORAS DA LEI) - Jujuba ATÔMICA;30/04/2018;Segunda-Feira;1;07:36;31297;4777;13;154;Unboxing;Mixture Box;Divulgação;Mixture Box
+281;GUERRA INFINITA | CENA PÓS-CRÉDITOS EXPLICADA - Jujuba ATÔMICA;02/05/2018;Quarta-Feira;2;09:09;470950;32538;362;1029;Explicação;Vingadores;Filmes;Marvel
+282;THE FLASH | EPISÓDIO 20 TEMPORADA 04 - Jujuba ATÔMICA;03/05/2018;Quinta-Feira;1;10:27;24077;4103;20;313;Review;Flash;Séries;DC Comics
+283;UNBOXING NERD LOOT 31 e ANIME LOOT 9 - Jujuba ATÔMICA;04/05/2018;Sexta-Feira;1;10:37;48515;7496;47;437;Unboxing;Nerd Loot Anime Loot;Divulgação;Nerd Loot
+284;VINGADORES GUERRA INFINITA - GAMORA | SPOILERS - Jujuba ATÔMICA;05/05/2018;Sábado;1;08:16;126583;18574;68;931;Explicação;Vingadores;Filmes;Marvel
+285;FUNKUBO 08 | UNBOXING - Jujuba ATÔMICA;08/05/2018;Terça-Feira;3;07:33;27102;4335;15;159;Unboxing;Funkubo;Divulgação;Funkubo
+286;A GUERRA DO VELHO | LIVRO - Jujuba ATÔMICA;10/05/2018;Quinta-Feira;2;11:13;32129;5114;19;247;Resenha;A Guerra do Velho;Livros;Outros
+287;THE FLASH | EPISÓDIO 21 TEMPORADA 04 - Jujuba ATÔMICA;11/05/2018;Sexta-Feira;1;06:30;19529;3175;16;113;Review;Flash;Séries;DC Comics
+288;VINGADORES 4 | CONEXÃO COM HOMEM-FORMIGA- Jujuba ATÔMICA;12/05/2018;Sábado;1;07:33;114611;19399;69;605;Teoria;Vingadores;Filmes;Marvel
+289;"""ASHES"" | TEMA DE DEADPOOL 2";15/05/2018;Terça-Feira;3;03:21;36501;5906;59;452;Música;Deadpool;Filmes;Marvel
+290;DEADPOOL 2 SEM SPOILERS - Jujuba ATÔMICA;17/05/2018;Quinta-Feira;2;09:29;45233;8852;42;372;Review;Deadpool;Filmes;Marvel
+291;THE FLASH | EPISÓDIO 22 TEMPORADA 04 - Jujuba ATÔMICA;18/05/2018;Sexta-Feira;1;08:41;20930;3649;19;175;Review;Flash;Séries;DC Comics
+292;DEADPOOL 2 COM SPOILERS - Jujuba ATÔMICA;20/05/2018;Domingo;2;10:55;66640;12250;50;337;Review;Deadpool;Filmes;Marvel
+293;BATWOMAN ORIGEM | (ESTREIA NO ARROWVERSO) - Jujuba ATÔMICA;22/05/2018;Terça-Feira;2;11:04;56050;8667;36;275;Origem;Batwoman;Personagem;DC Comics
+294;THE FLASH | EPISÓDIO 23 TEMPORADA 04 - episódio final - último episódio;25/05/2018;Sexta-Feira;3;09:37;47354;5293;33;373;Review;Flash;Séries;DC Comics
+295;HAN SOLO SEM SPOILERS - Jujuba ATÔMICA;26/05/2018;Sábado;1;09:18;23857;4301;26;213;Review;Han Solo;Filmes;Star Wars
+296;NERD LOOT 32 e ANIME LOOT 10 | UNBOXING - Jujuba ATÔMICA;29/05/2018;Terça-Feira;3;11:27;30569;4806;26;502;Unboxing;Nerd Loot Anime Loot;Divulgação;Nerd Loot
+297;MIXTURE BOX CAIXA 20 | VILÕES DOS DESENHOS - Jujuba ATÔMICA;30/05/2018;Quarta-Feira;1;07:12;24929;4422;23;136;Unboxing;Mixture Box;Divulgação;Mixture Box
+298;HELLBOY ORIGEM | GUIA DE LEITURA - Jujuba ATÔMICA;02/06/2018;Sábado;3;15:29;70133;10657;50;281;Origem;Hellboy;Personagem;Dark Horse
+299;VINGADORES 4 - CAPITÃ MARVEL TEM PODERES PARA DERROTAR THANOS? - Jujuba ATÔMICA;05/06/2018;Terça-Feira;3;10:21;179684;19497;158;931;Teoria;Vingadores;Filmes;Marvel
+300;TRANSFORMERS - BUMBLEBEE TRAILER - OS DETALHES QUE VOCÊ NÃO PERCEBEU - Jujuba ATÔMICA;06/06/2018;Quarta-Feira;1;10:39;164677;16779;110;998;Preview;Bumblebee;Filmes;Transformers
